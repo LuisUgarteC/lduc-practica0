@@ -1,2 +1,2 @@
-# lduc-practica1
+# lduc-practica0
 Práctica de comandos GIT
